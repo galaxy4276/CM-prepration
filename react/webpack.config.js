@@ -20,7 +20,7 @@ module.exports = {
         options: { presets: ['@babel/env'] },
       },
       {
-        test: /\.css$/,
+        test: /\.(sa|sc|c)ss$/,
         use: ['style-loader', 'css-loader']
       }
     ]
