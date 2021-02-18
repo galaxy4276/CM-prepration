@@ -1,10 +1,10 @@
 import React from 'react';
+import Basic from "./react-hook-form/Basic";
+
 
 const App = () => {
   return (
-    <div>
-      hello world 은기 dm 은 기
-    </div>
+    <Basic />
   );
 };
 
