@@ -4,7 +4,13 @@ import {useForm} from "react-hook-form";
 
 
 const Basic = () => {
-  const { register, errors, handleSubmit } = useForm();
+  const { register, errors, handleSubmit } = useForm({
+    defaultValues: {
+      // firstName: '최',
+      // lastName: '은기',
+      // email: 'galaxyhi4276@gmail.com',
+    },
+  });
   const onSubmit = data => alert(JSON.stringify(data));
 
   // errors 내용 확인
