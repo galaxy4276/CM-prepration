@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a2b297-86d0-458e-8c24-9ce241122d0d" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/react/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/src/components/Greeting.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/react/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/src/react-hook-form/Basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/react-hook-form/Basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/react/yarn-error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +39,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-react" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="ts.external.directory.path" value="C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.7148.54\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\work\cm-Preparation\react\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,6 +56,7 @@
       <updated>1613635742379</updated>
       <workItem from="1613635743453" duration="8753000" />
       <workItem from="1613687102195" duration="4725000" />
+      <workItem from="1613945870913" duration="1469000" />
     </task>
     <task id="LOCAL-00001" summary="feat: react-hook-form 에러 사용">
       <created>1613643777056</created>
